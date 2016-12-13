@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RunTime Permission</string>
+    <string name="runtime_permission">Runtime Permission sample</string>
+</resources>
